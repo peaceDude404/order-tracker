@@ -1,12 +1,12 @@
-# Notes App
+# Order Tracker
 
-This is a Notes App made using the Flutter Framework.
+This is a Order Tracker App made using the Flutter Framework.
 
-It lets the user create, edit and delete notes.
+The basic idea behind this project to develop token system of restaurants in digital platform.
+
+It keeps the records of customers like price , order , name.
+
+It sends SMS to customer when their order will ready.
 
 It makes use of Firebase Firestore as backend to store all the data.
-
-https://user-images.githubusercontent.com/89238834/158217688-231a8ddb-cf2f-4bb3-b109-f194abb19a4e.mp4
-
-https://user-images.githubusercontent.com/89238834/158217702-4eb1f601-950d-4fb6-8d43-09521e74d95e.mp4
 
